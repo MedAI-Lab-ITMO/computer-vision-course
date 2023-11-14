@@ -14,3 +14,4 @@
 ### Видео
 * [лекция №2](https://drive.google.com/file/d/1n0btY9cuachG46e6ItIybCpaPLemGy3Y/view?usp=sharing)
 * [лекция №3](https://drive.google.com/file/d/1J3t5d_gl1_d90JAfv8tu_QNjIgPXEtz1/view?usp=sharing)
+* [лекция №4](https://drive.google.com/file/d/1ZoAjrTTArxNnSq7DMAw-p-BiGMie_yFv/view?usp=sharing)
