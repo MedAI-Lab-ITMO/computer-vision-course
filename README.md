@@ -8,6 +8,9 @@
 | практика №2 | [![homework 2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15MY2mBBWG8zq5PAjUVrsFUeymb5asEAb?usp=sharing)|
 | практика №3 | [![homework 3](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-30-5-v1LxBzcyMTvYpaDqJjYDnhPD5A?usp=sharing)|
 | практика №4 | [![homework 4](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1oh1IdR0KxKwdQodFhb20T3BXbPFFL3Kz?usp=sharing)|
+| практика №5 | [![homework 5](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DWf-xbCyAGrJyQQqAZpOi6Nyio7CfJwP?usp=sharing)|
+| доп задание | [![additional](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rCNVTPV0GFAEAr0pNK-ZG-KAniQX9Pdn?usp=sharing)|
+
 
 ## Лекции
 ### Презентации
